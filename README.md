@@ -10,7 +10,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+Aprender o básico sobre contribuição no GitHub!
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -63,7 +63,7 @@ Para isso, você pode inserir: badges indicando suas habilidades; cards com suas
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
 [![Badges](https://img.shields.io/badge/Card%20Streak%20States-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-streak-stats.md)
 
-> [!IMPORTANT]   
+> [!IMPORTANTE]   
 > Confira as instruções antes de enviar a sua contribuição em [CONTRIBUTING.md](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/CONTRIBUTING.md)
 
 ### Fórum do Repositório (GitHub Discussions)
